@@ -1,4 +1,4 @@
-package com.iviberberi.msscbrewery.v2;
+package com.iviberberi.msscbrewery.services.v2;
 
 import com.iviberberi.msscbrewery.web.model.v2.BeerDtoV2;
 
